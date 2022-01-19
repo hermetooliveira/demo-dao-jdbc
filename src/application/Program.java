@@ -16,6 +16,8 @@ public class Program {
 		Seller seller = new Seller(21, "Bob", "bob@gmail.com", new Date(), 3.000, obj);
 		
 		System.out.println(seller);
+		
+		SellerDao sellerDao = 
 
 	}
 
